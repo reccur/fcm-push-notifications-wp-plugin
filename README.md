@@ -1,6 +1,6 @@
-# WordPress Starter Plugin
+# Android FCM Push Notifications
 
-A well documented starter plugin for quick WordPress plugin development complete with inline documentation and working admin options page.
+Android FCM Push Notifications is a plugin through which you can send push notifications directly from your WordPress site to android devices via Firebase Cloud Messaging (FCM) service. When a new blog is posted or existing blog is updated, a push notification sent to android device. Just set your topic!
 
 
 # Directory Structure
@@ -13,7 +13,7 @@ A well documented starter plugin for quick WordPress plugin development complete
 - index.php						- Dummy file.
 - license.txt					- GPL v2
 - prefix_starter-plugin.php		- Main plugin file containing plugin name and other version info for WordPress.
-- readme.txt					- Readme for WordPress plugin repository. https://wordpress.org/plugins/files/2018/01/readme.txt
+- readme.txt					- Readme for WordPress plugin repository.
 - uninstall.php					- Fired when the plugin is uninstalled. 
 
 
