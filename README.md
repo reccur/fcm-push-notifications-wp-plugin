@@ -1,4 +1,4 @@
-# Android FCM Push Notifications
+# FCM Push Notifications Wordpress Plugin
 
 Android FCM Push Notifications is a plugin through which you can send push notifications directly from your WordPress site to android devices via Firebase Cloud Messaging (FCM) service. When a new blog is posted or existing blog is updated, a push notification sent to android device. Just set your topic!
 
